@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\screenshotmaker.o
+./release\hook.o
+./release\loginform.o
+./release\srvapi.o
+./release\sendphotosrv.o
+./release\filecount.o
+./release\qrc_resurs.o
+./release\moc_mainwindow.o
+./release\moc_screenshotmaker.o
+./release\moc_hook.o
+./release\moc_loginform.o
+./release\moc_srvapi.o
+./release\moc_sendphotosrv.o
+);

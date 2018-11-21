@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\screenshotmaker.o
+./debug\hook.o
+./debug\loginform.o
+./debug\srvapi.o
+./debug\sendphotosrv.o
+./debug\filecount.o
+./debug\qrc_resurs.o
+./debug\moc_mainwindow.o
+./debug\moc_screenshotmaker.o
+./debug\moc_hook.o
+./debug\moc_loginform.o
+./debug\moc_srvapi.o
+./debug\moc_sendphotosrv.o
+);
